@@ -278,17 +278,14 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 46.96px;
-  margin-bottom: 100px;
+  margin-bottom: 96px;
   text-transform: uppercase;
 }
 
 .about__text {
   font-size: 20px;
   line-height: 23.5px;
-}
-
-.about__text p {
-  margin-top: 24px;
+  margin-top: 26px;
 }
 
 .footer {
